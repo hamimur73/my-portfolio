@@ -1,0 +1,21 @@
+.section{
+    padding:140px 0;
+}
+
+.section-title{
+    font-size:clamp(42px,6vw,72px);
+    font-weight:900;
+    line-height:1.1;
+    text-align:center;
+    margin-top:10px;
+}
+
+.section-subtitle{
+    color:#06b6d4;
+    text-transform:uppercase;
+    letter-spacing:5px;
+    font-weight:700;
+    text-align:center;
+    font-size:15px;
+    margin-bottom:8px;
+}

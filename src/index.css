@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "./styles/globals.css";
+section {
+  scroll-margin-top: 90px;
+}
+@media (min-width: 1024px) {
+  * {
+    cursor: none;
+  }
+}
